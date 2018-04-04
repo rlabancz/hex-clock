@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+}
+
+.full {
+    height: 100%;
+    width: 100%;
+}
+
+.time {
+    font-size: 56px;
+    margin: 0 auto;
+    position: absolute;
+    text-align: center;
+    top: 45%;
+    width: 100%;
+}
