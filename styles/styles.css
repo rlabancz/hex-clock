@@ -11,6 +11,7 @@ body {
 
 .time {
     font-size: 56px;
+    font-weight: bold;
     margin: 0 auto;
     position: absolute;
     text-align: center;
